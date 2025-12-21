@@ -43,7 +43,7 @@ export default function Experience() {
 
     {
       type: 'internship',
-      title: 'Community EngagementIntern',
+      title: 'Community Engagement Intern',
       organization: 'GoodHood.SG',
       period: 'Mar 2024 - Aug 2024',
      // description: 'Organised and executed events to promote product management skills.',
