@@ -43,7 +43,7 @@ export default function Experience() {
 
     {
       type: 'internship',
-      title: 'Intern',
+      title: 'Community EngagementIntern',
       organization: 'GoodHood.SG',
       period: 'Mar 2024 - Aug 2024',
      // description: 'Organised and executed events to promote product management skills.',
@@ -56,7 +56,7 @@ export default function Experience() {
 
     {
       type: 'internship',
-      title: 'Volunteer',
+      title: 'Regular Service Volunteer',
       organization: 'NTU Welfare Services Club',
       period: 'May 2023 - May 2024',
      // description: 'Organised and executed events to promote product management skills.',
