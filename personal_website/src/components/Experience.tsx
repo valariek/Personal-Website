@@ -22,6 +22,7 @@ export default function Experience() {
       period: 'May 2025 - Present',
       //description: 'Leading external relations and partnerships to promote women in tech initiatives and events.',
       achievements: [
+        'Previously the Corporate Events Director (May 2024 - May 2025) and successfully organised 6 corporate events with companies like UBS and HP',
         'Established partnerships with industry leaders for mentorship programs',
         'Organized workshops and events to empower women in technology',
         'Advocated for diversity and inclusion within the tech community',
@@ -52,6 +53,31 @@ export default function Experience() {
         'Coordinated volunteer activities and managed logistics for smooth event operations',
       ],
     },
+
+    {
+      type: 'internship',
+      title: 'Volunteer',
+      organization: 'NTU Welfare Services Club',
+      period: 'May 2023 - May 2024',
+     // description: 'Organised and executed events to promote product management skills.',
+      achievements: [
+        'Conducted weekly reading sessions for underprivileged children, fostering a positive learning environment',
+      ],
+    },
+
+    {
+      type: 'internship',
+      title: 'Social Secretary',
+      organization: 'NTU Hall 7 Hall Council',
+      period: 'Sep 2022 - Sep 2023',
+     // description: 'Organised and executed events to promote product management skills.',
+      achievements: [
+        'Organised festive events for residents, fostering community spirit and engagement',
+        'Led a sub-committee of 5 members to plan and execute events successfully',
+      ],
+    },
+
+
   ];
 
   const certifications = [
@@ -66,12 +92,12 @@ export default function Experience() {
         <h2 className="text-5xl font-black text-center text-gray-900 mb-4">
           My Experiences 🏆
         </h2>
-        <p className="text-center text-gray-600 mb-12 text-lg">My journey so far in the past 2 years</p>
+        <p className="text-center text-gray-600 mb-12 text-lg">My journey so far!</p>
 
         <div className="mb-16">
           <div className="flex items-center mb-8">
             <Briefcase className="text-pink-600 mr-3" size={28} />
-            <h3 className="text-3xl font-bold text-gray-900">Relevant Experiences</h3>
+            <h3 className="text-3xl font-bold text-gray-900">Work and Leadership Experiences</h3>
           </div>
 
           <div className="space-y-8">
