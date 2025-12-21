@@ -39,6 +39,19 @@ export default function Experience() {
         'Spearheaded hackathon in collaboration with ShopBack, attracting 100+ signups islandwide',
       ],
     },
+
+    {
+      type: 'internship',
+      title: 'Intern',
+      organization: 'GoodHood.SG',
+      period: 'Mar 2024 - Aug 2024',
+     // description: 'Organised and executed events to promote product management skills.',
+      achievements: [
+        'Planned and executed 5 islandwide community events, increasing volunteer engagement by 25%',
+        'Sought partnerships with businesses for sponsorships and in-kind donations',
+        'Coordinated volunteer activities and managed logistics for smooth event operations',
+      ],
+    },
   ];
 
   const certifications = [

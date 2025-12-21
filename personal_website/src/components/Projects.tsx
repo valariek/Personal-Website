@@ -15,7 +15,7 @@ export default function Projects() {
 
   {
     title: 'Disney+ Data Analysis',
-    description: "As a Marvel fan, analyzed Disney+ subscription data to uncover trends and insights, learning Tableau entirely on my own.",
+    description: "Analyzed Disney+ subscription data to identify usage trends and insights, independently self-learning Tableau to build data visualizations and dashboards.",
     technologies: ['Tableau', 'SQL', 'Pandas'],
     liveUrl: '#',
     githubUrl: '#',
