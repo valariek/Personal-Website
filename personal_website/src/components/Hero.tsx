@@ -20,7 +20,7 @@ export default function Hero() {
         <div className="mb-8 animate-fade-in">
           <div className="inline-flex items-center justify-center mb-6">
             <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-white bg-gray-100 shadow-2xl transform hover:scale-110 transition-transform duration-300 relative flex items-center justify-center">
-              <img src="/me.jpg" alt="Val" className="w-full h-full object-cover object-top" />
+              <img src="/me_new.jpg" alt="Val" className="w-full h-full object-cover object-top" />
               <div className="absolute -top-2 -right-2 animate-spin" style={{ animationDuration: '3s' }}>
                 <Sparkles className="text-yellow-300" size={24} />
               </div>
